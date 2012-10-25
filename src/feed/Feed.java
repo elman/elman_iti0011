@@ -15,9 +15,10 @@ public class Feed {
 	 */
 	public static void main(String[] args) {
 		ParseArguments.parse(args);
-		// checkstyle does not allow to use all capital letters 
-		// even in constant variable name
-		final int dAFAULTINTERVAL = 1000;
+		// checkstyle does not allow to use capital letters 
+		// as first letter in varable name
+
+		final int dAFAULTINTERVAL = 500;
 		
 		// reads command line option -lang argument 
 		// that can default to 'en'. 
