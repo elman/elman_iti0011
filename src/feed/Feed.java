@@ -18,7 +18,7 @@ public class Feed {
 		// checkstyle does not allow to use capital letters 
 		// as first letter in varable name
 
-		final int dAFAULTINTERVAL = 300;
+		final int dAFAULTINTERVAL = 850;
 		
 		// reads command line option -lang argument 
 		// that can default to 'en'. 
