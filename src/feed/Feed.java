@@ -19,7 +19,7 @@ public class Feed {
 		// as first letter in varable name
 
 
-		final int dAFAULTINTERVAL = 345;
+		final int dAFAULTINTERVAL = 355;
 
 		
 		// reads command line option -lang argument 
